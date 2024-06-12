@@ -1,0 +1,25 @@
+.screen{
+    border: double 10px #17155A;
+    width: 700px;
+    height: 500px;
+    margin: 60px auto;
+    border-radius: 30px;
+    background-color: #A5CDB9;
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    font-size: 70px;
+    text-align: center;
+    
+    
+    
+}
+body{
+    background-color: #182D5A;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box{
+    margin: 0 auto;
+}
